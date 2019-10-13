@@ -1,2 +1,2 @@
 # Modeling
-Work in progress / draft code and ideas
+Experimental code, for the purpose of exploration.
